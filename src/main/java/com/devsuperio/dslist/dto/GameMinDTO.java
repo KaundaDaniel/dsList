@@ -3,7 +3,7 @@ package com.devsuperio.dslist.dto;
 import com.devsuperio.dslist.entities.Game;
 import jakarta.persistence.Column;
 import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
+import jakarta.persistence.GenerationType; 
 import jakarta.persistence.Id;
 
 public class GameMinDTO {
